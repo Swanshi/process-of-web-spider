@@ -8,6 +8,5 @@ base:
 《python3网络爬虫开发实战》
 
 rule of name
-pr:project
-
-  
+pr:project of capture
+an:analyze of data 

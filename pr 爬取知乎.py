@@ -50,7 +50,7 @@ def parse_data(html):
             comment.append(item['voteup_count'])      # 点赞数
             comment.append(item['comment_count'])     # 评论数
             comment.append(item['url'])               # 回答链接
-           #获取文本内容 comment.append(item['text'])
+           #获取文本内容 comment.append(item['content'])
             comments.append(comment)
             
         return comments

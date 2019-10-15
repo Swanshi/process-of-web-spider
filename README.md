@@ -8,5 +8,5 @@ purpose:study
 《python3网络爬虫开发实战》
 
 ## rule of name
-### pr:project of capture
-### an:analyze of data 
+*1 pr:project of capture
+*2 an:analyze of data 

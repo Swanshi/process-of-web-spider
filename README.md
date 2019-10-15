@@ -9,5 +9,5 @@ purpose:study
 
 ## rule of name
 ### 
-*1 pr:project of capture
-*2 an:analyze of data 
+*1.pr:project of capture
+*2.an:analyze of data 
